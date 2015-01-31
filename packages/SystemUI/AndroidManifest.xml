@@ -211,6 +211,10 @@
     <!-- Access Quick Access Wallet cards -->
     <uses-permission android:name="android.permission.BIND_QUICK_ACCESS_WALLET_SERVICE" />
 
+    <!-- QS Tiles -->
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+
     <!-- Adding Controls to SystemUI -->
     <uses-permission android:name="android.permission.BIND_CONTROLS" />
     <!-- Check foreground controls applications -->
