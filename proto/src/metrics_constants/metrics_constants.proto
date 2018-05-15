@@ -7442,5 +7442,7 @@ message MetricsEvent {
     // CustomSettings constant
     EUNOIA = 1999;
 
+    // CUSTOM Metrics
+    CUSTOM = 2772;
   }
 }
